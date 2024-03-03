@@ -9,7 +9,7 @@
 
 # Features
 
-- `GitHub Repository Search` Clone all repositories of a specified GitHub user and search through their contents for specific terms.
+- `GitHub Repository Search` Without using the github API, Clone all repositories of a specified GitHub user and search through their contents for specific terms.
 - `Customizable Search Terms` Define custom search terms in a text file for flexible search criteria.
 - `Report Generation` Automatically generates a report detailing the findings, including repository names, files where the terms were found, and the content where the terms matched.
 - `Redaction of Findings` Option to redact findings in the report by replacing them with [REDACTED].
