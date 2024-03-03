@@ -4,8 +4,8 @@
 [![PyPI - License](https://img.shields.io/pypi/l/PyGithub)](https://github.com/PyGithub/PyGithub/blob/master/LICENSE)
 [![PyPI - Version](https://img.shields.io/pypi/v/PyGithub)](https://pypi.org/project/PyGithub/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/PyGithub)](https://pypi.org/project/PyGithub/)
+<img width="1681" alt="Screenshot 2024-03-03 at 12 39 20 PM" src="https://github.com/NoDataFound/Redactor/assets/3261849/94c65b39-a3fb-47f0-b5cb-bed5df0defda">
 
-<img width="1681" alt="Screenshot 2024-03-03 at 12 39 20 PM" src="https://github.com/NoDataFound/Redactor/assets/3261849/46a6bdab-088b-4479-a850-6cd12c2eef98">
 
 # Features
 
